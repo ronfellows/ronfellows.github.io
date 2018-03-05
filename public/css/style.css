@@ -1,0 +1,122 @@
+#page-header{
+	padding-top: 5%;
+	font-family: 'Raleway', sans-serif;
+	padding-bottom: 5%;
+	background-color: #2185C5;
+	color: #FFF6E5;
+}
+
+#page-header h1{
+	font-size: 400%;
+}
+
+#page-nav{
+	position: relative;
+	background-color: #3E454C;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	box-shadow: 0px 15px 30px #2E3338, 0px -15px 30px #2E3338;
+	z-index: 100;
+}
+
+#page-nav a {
+	font-size: 200%;
+	margin-right: 2%;
+	padding-left: 2%;
+	padding-right: 2%;
+	color:#FFF6E5;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	text-align: center;
+	text-decoration: none;
+
+}
+
+#page-nav a:hover{
+	background-color:#FFF6E5;
+	color: #3E454C;
+}
+
+#home-page-first-content{
+	position: relative;
+	z-index: 99;
+}
+
+#skills h1{
+	margin-bottom: 2%;
+	font-size: 350%;
+}
+
+
+.skills-container h2{
+	text-align: center;
+	margin-bottom: 7.5%;
+	font-size: 250%;
+}
+
+.skill{
+	cursor: pointer;
+	margin-bottom: 2%;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	font-size: 200%;
+}
+
+#page-footer{
+	background-color: #333333;
+	color: #FFFFFF;
+	padding-top:10%;
+	padding-bottom: 15%;
+}
+
+#skills-parent-container{
+	padding-bottom: 5%;
+}
+
+#home-page-first-content{
+	color: #FFFFFF;
+	background-color: #2185C5;
+	padding-bottom: 5%;
+}
+
+#home-page-first-content p{
+	margin-top: 2%;
+	letter-spacing: .5px;
+}
+
+#main-page-third-content{
+	padding-top: 3%;
+	color: #FFFFFF;
+	background-color: #2185C5;
+	padding-bottom: 5%;
+}
+
+#main-page-third-content h2{
+	font-size: 250%;
+}
+
+#main-page-third-content p{
+	letter-spacing: 1px;
+}
+
+
+.projectArrow{
+	cursor: pointer;
+}
+
+#page-footer a{
+	color: #FFFFFF;
+}
+.footer-icon{
+	cursor: pointer;
+	padding-left: 3%;
+}
+
+.footer-icon:hover{
+	color: #2185C5;
+}
